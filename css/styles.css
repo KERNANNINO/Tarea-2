@@ -1,0 +1,120 @@
+body {
+   background-color: rgb(250, 233, 233);
+}
+.caja {
+    background-color: rgb(240, 208, 168);
+    width:  700px; height: 700px;
+    border: 10px solid #0c3315; 
+    margin: auto;
+    padding: 10px;
+    position: relative; top: 50px;
+    
+}
+.oreja1 {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:100px ;height: 100px;
+    position: absolute; top: 90px; left: 420px; 
+}
+.oreja2 {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+    width:100px ;height: 100px;
+     position: absolute; top: 90px; left: 230px; 
+}
+.oido1 {
+    background-color: rgb(126, 80, 116);
+    border-radius: 50%;
+     width:40px ;height: 40px;
+     position: absolute; top: 30px; left: 30px; 
+}
+.oido2 {
+    background-color: rgb(126, 80, 116);
+    border-radius: 50%;
+     width:40px ;height: 40px;
+     position: absolute; top: 30px; left: 30px; 
+}
+.cabeza {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:200px ;height: 200px;
+     position: absolute; top: 150px; left: 274px; 
+}
+.ojo1 {
+    background-color: rgb(218, 207, 203);
+    border-radius: 50%;
+     width:40px ;height: 40px;
+     position: absolute; top: 45px; left: 40px; 
+}
+.pupila1 {
+    background-color: black;
+    border-radius: 50%;
+     width:20px ;height: 20px;
+     position: absolute; top: 10px; left: 10px; 
+}
+.ojo2 {
+    background-color: rgb(218, 207, 203);
+    border-radius: 50%;
+     width:40px ;height: 40px;
+     position: absolute; top: 45px; left: 120px; 
+}
+.pupila2 {
+    background-color: black;
+    border-radius: 50%;
+     width:20px ;height: 20px;
+     position: absolute; top: 10px; left: 10px; 
+}
+.nariz {
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+     width:60px ;height: 60px;
+     position: absolute; top: 70px; left: 70px; 
+}
+.boca {
+    background-color: rgb(61, 60, 60);
+    border-radius: 50%;
+     width:100px ;height: 20px;
+     position: absolute; top: 140px; left: 54px; 
+}
+.cuerpo {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:275px ;height: 275px;
+     position: absolute; top: 345px; left: 240px; 
+}
+.pancita {
+    background-color: rgb(180, 170, 166);
+    border-radius: 50%;
+     width:110px ;height: 160px;
+     position: absolute; top: 50px; left: 80px; 
+}
+.mano1 {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:140px ;height: 60px;
+     position: absolute; top: 400px; left: 115px; 
+}
+.mano2 {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:140px ;height: 60px;
+     position: absolute; top: 400px; left: 500px; 
+}
+.pie1 {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:90px ;height: 60px;
+     position: absolute; top: 560px; left: 200px; 
+}
+.pie2 {
+    background-color: rgb(72, 75, 75);
+    border-radius: 50%;
+     width:90px ;height: 60px;
+     position: absolute; top: 560px; left: 465px; 
+}
+.nombre {
+    border: solid#0c3315;
+    font-size: 50px;
+    position: absolute; top: 640px; left: auto;
+    margin: 10px;
+}
